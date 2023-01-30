@@ -1,0 +1,34 @@
+Commandes :
+
+	composer install/update
+
+	copy .env.example .env
+
+	php artisan key:generate
+	php artisan storage:link
+
+	php artisan migrate --seed
+
+	npm install
+	npm run build
+
+Git :
+	//Upload :
+	git add .
+	git commit -m "version"
+	git push
+	
+	//Download :
+	git pull
+	
+	//Overwrite :
+	git reset --hard HEAD
+
+
+Lien de la vm : http://10.5.2.25/~duva0041/projet0303/projet-info303/projet/public/
+
+
+Lien git : https://gitlab-mi.univ-reims.fr/theo0008/projet-info303.git
+
+
+Base de données : Antoine Duval
