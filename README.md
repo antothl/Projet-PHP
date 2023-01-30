@@ -7,7 +7,6 @@
     <h1>Projet INFOO0303 d'Antoine Duval & Antoine Théologien (S3F3)</h1>
     <h2>Site web : Acti'scol</h2>
     <p>
-      Lien de la vm : http://10.5.2.25/~duva0041/projet0303/projet-info303/projet/public/
     </p><br/>
     <h2>Sujet 1 : gestion d'activités périscolaires.</h2>
     <p>
